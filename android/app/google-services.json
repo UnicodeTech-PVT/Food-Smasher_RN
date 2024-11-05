@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "424845266046",
+    "project_id": "foodsmasher-549be",
+    "storage_bucket": "foodsmasher-549be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424845266046:android:e9e4f6ffeef02896999c2f",
+        "android_client_info": {
+          "package_name": "com.foodsmasher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424845266046-cugkt6jtd7539au5j0vm6gghh7fscvb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodsmasher",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "424845266046-f8f31538rao2ufu00cgfd56p2h42mkn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7GKuzYgGz-3XTH_uw8xSNMmf5jXeXDrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424845266046-f8f31538rao2ufu00cgfd56p2h42mkn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
